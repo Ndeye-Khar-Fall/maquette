@@ -1,0 +1,21 @@
+.container{
+    position: relative;
+    align-items: baseline;
+    z-index: 1;
+    margin-left: 70px;
+    top: -650px;
+   height: auto;
+   color: white;
+   }
+.todo{
+  margin-left: 500px;
+  top: 750px;
+  position: absolute;
+    }
+
+.div{
+    position: absolute;
+    border-top-style:none;
+    top: 1000px;
+   padding-right: 0px;
+    }
